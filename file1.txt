@@ -1,4 +1,6 @@
 apple
 banana
 cherry
+mango
+watermelon
 dragon fruit
